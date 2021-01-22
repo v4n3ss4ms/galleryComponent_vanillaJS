@@ -1,5 +1,4 @@
 # galleryComponent_vanillaJS
-galleryComponent_vanillaJS
 
 You need to run the project on a server in order to avoid CORS errors.
 

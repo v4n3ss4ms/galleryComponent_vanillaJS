@@ -1,0 +1,2 @@
+# galleryComponent_vanillaJS
+galleryComponent_vanillaJS
